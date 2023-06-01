@@ -1,7 +1,13 @@
-Space307 develops an international online trading platform. Every day, 255K unique users from over 100 countries visit our platform. Space307 is a horizontally-structured company. All our employees do more than just the bare minimum. We all are experts in our spheres. The work in the company is based on a simple rule: when a client comes to us with a problem, we solve it.
+![Space307_cover](https://github.com/space307/.github/assets/97600169/245c1a78-ad4f-4c96-9093-683ad40e3af3)
 
-The project we are developing uses many different tools and features. The development tasks are shared between cross-functional teams.
+Мы в Space307 разрабатываем международную торговую платформу. Каждый день у нас в онлайне 255 тысяч уникальных пользователей из 100+ стран. У нас плоская структура и нет просто исполнителей. Каждый из нас — спец в своей области, и принцип работы простой: к нам приходят с проблемой, а мы отвечаем решением.
 
-[Our site](https://space307.com)
+Наш проект с большим количеством фич и вся разработка ведется в кросс-функциональных командах.
 
+Стек:
 `<Golang>` `<PHP>` `<MySQL>` `<PostgreSQL>` `<Redis>` `<Kafka>` `<Vertica>` `<ClickHouse>` `<Docker>` `<C++>` `<OpenGL>` `<ReactJS>` `<Effector>` `<D3>` `<Swift>` `<Kotlin>`
+
+Узнать о нас больше:
+[Сайт](https://space307.com)
+[Вакансии](https://spb.hh.ru/employer/2913350)
+[Youtube](https://www.youtube.com/@Space307)
