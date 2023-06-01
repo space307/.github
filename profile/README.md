@@ -8,6 +8,6 @@
 `<Golang>` `<PHP>` `<MySQL>` `<PostgreSQL>` `<Redis>` `<Kafka>` `<Vertica>` `<ClickHouse>` `<Docker>` `<C++>` `<OpenGL>` `<ReactJS>` `<Effector>` `<D3>` `<Swift>` `<Kotlin>`
 
 Узнать о нас больше:
-[Сайт](https://space307.com)
-[Вакансии](https://spb.hh.ru/employer/2913350)
-[Youtube](https://www.youtube.com/@Space307)
+- [Сайт](https://space307.com)
+- [Вакансии](https://spb.hh.ru/employer/2913350)
+- [Youtube](https://www.youtube.com/@Space307)
