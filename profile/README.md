@@ -9,5 +9,5 @@
 
 Узнать о нас больше:
 - [Сайт](https://space307.com)
-- [Вакансии](https://spb.hh.ru/employer/2913350)
+- [Вакансии](https://space307.team)
 - [Youtube](https://www.youtube.com/@Space307)
