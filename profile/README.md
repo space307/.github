@@ -1,13 +1,14 @@
 ![Space307_cover](https://github.com/space307/.github/assets/97600169/245c1a78-ad4f-4c96-9093-683ad40e3af3)
 
-Мы в Space307 разрабатываем международную торговую платформу. Каждый день у нас в онлайне 255 тысяч уникальных пользователей из 100+ стран. У нас плоская структура и нет просто исполнителей. Каждый из нас — спец в своей области, и принцип работы простой: к нам приходят с проблемой, а мы отвечаем решением.
+We are Space307, an international full-service FinTech company. Our team is more than 280 software development and marketing experts.
 
-Наш проект с большим количеством фич и вся разработка ведется в кросс-функциональных командах.
+Outstanding performance and reasonable decisions are our core principles. Another thing about us is that we strive to eliminate red tape in business. Oh, and we love spending time together after hours!
 
-Стек:
-`<Golang>` `<PHP>` `<MySQL>` `<PostgreSQL>` `<Redis>` `<Kafka>` `<Vertica>` `<ClickHouse>` `<Docker>` `<C++>` `<OpenGL>` `<ReactJS>` `<Effector>` `<D3>` `<Swift>` `<Kotlin>`
+Our stack:
+`<Golang>` `<PHP>``<C#>``<Swift>``<Kotlin>``<Flutter>``<React>``<D3>``<Vue.js>``<C++>``<OpenGL>``<MySQL>``<Vitess>``<PostgreSQL>``<Cassandra>``<Redis>``<Vertica>``<ClickHouse>``<Kafka>`
+`<Docker>``<Kubernetes>`
 
-Узнать о нас больше:
-- [Сайт](https://space307.com)
-- [Вакансии](https://space307.team)
+More details:
+- [Website](https://space307.com)
+- [Vacancies](https://space307.team)
 - [Youtube](https://www.youtube.com/@Space307)
